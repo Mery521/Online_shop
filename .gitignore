@@ -1,0 +1,17 @@
+node_modules
+.env
+.history
+
+.DS_Store
+
+
+index.html
+
+/images/
+
+index.js
+
+text.txt
+
+slider
+
